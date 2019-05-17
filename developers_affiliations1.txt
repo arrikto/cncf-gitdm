@@ -13495,7 +13495,7 @@ Dimitrios Liappis: dimitrios.liappis!elastic.co, dliappis!users.noreply.github.c
 	Elastic
 	Pythian until 2015-09-01
 	Upstream until 2014-02-01
-Dimitris Aragiorgis: dimara!arrikto.gr
+Dimitris Aragiorgis: dimara!arrikto.com
 	Arrikto
 	GRNET until 2014-11-01
 Dimitris Benis: dimitrios.1.benis!nokia.com
